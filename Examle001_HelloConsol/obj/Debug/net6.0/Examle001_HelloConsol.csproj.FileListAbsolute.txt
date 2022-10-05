@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\bin\Debug\net6.0\Examle001_HelloConsol.exe
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\bin\Debug\net6.0\Examle001_HelloConsol.deps.json
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\bin\Debug\net6.0\Examle001_HelloConsol.runtimeconfig.json
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\bin\Debug\net6.0\Examle001_HelloConsol.dll
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\bin\Debug\net6.0\Examle001_HelloConsol.pdb
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\obj\Debug\net6.0\Examle001_HelloConsol.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\obj\Debug\net6.0\Examle001_HelloConsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\obj\Debug\net6.0\Examle001_HelloConsol.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\obj\Debug\net6.0\Examle001_HelloConsol.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\obj\Debug\net6.0\Examle001_HelloConsol.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\obj\Debug\net6.0\Examle001_HelloConsol.dll
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\obj\Debug\net6.0\refint\Examle001_HelloConsol.dll
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\obj\Debug\net6.0\Examle001_HelloConsol.pdb
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\obj\Debug\net6.0\Examle001_HelloConsol.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# lectures\Examle001_HelloConsol\obj\Debug\net6.0\ref\Examle001_HelloConsol.dll
