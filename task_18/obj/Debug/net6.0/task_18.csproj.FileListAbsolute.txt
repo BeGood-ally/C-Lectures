@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\bin\Debug\net6.0\task_18.exe
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\bin\Debug\net6.0\task_18.deps.json
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\bin\Debug\net6.0\task_18.runtimeconfig.json
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\bin\Debug\net6.0\task_18.dll
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\bin\Debug\net6.0\task_18.pdb
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\obj\Debug\net6.0\task_18.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\obj\Debug\net6.0\task_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\obj\Debug\net6.0\task_18.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\obj\Debug\net6.0\task_18.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\obj\Debug\net6.0\task_18.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\obj\Debug\net6.0\task_18.dll
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\obj\Debug\net6.0\refint\task_18.dll
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\obj\Debug\net6.0\task_18.pdb
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\obj\Debug\net6.0\task_18.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\task_18\obj\Debug\net6.0\ref\task_18.dll
