@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\bin\Debug\net6.0\task_213.exe
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\bin\Debug\net6.0\task_213.deps.json
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\bin\Debug\net6.0\task_213.runtimeconfig.json
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\bin\Debug\net6.0\task_213.dll
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\bin\Debug\net6.0\task_213.pdb
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\obj\Debug\net6.0\task_213.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\obj\Debug\net6.0\task_213.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\obj\Debug\net6.0\task_213.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\obj\Debug\net6.0\task_213.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\obj\Debug\net6.0\task_213.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\obj\Debug\net6.0\task_213.dll
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\obj\Debug\net6.0\refint\task_213.dll
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\obj\Debug\net6.0\task_213.pdb
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\obj\Debug\net6.0\task_213.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба в GB\ПАКЕТ РАЗРАБОТЧИК\C# practice\lesson_2\task_213\obj\Debug\net6.0\ref\task_213.dll
