@@ -3,5 +3,13 @@ string a = Console.ReadLine();
 string b = Console.ReadLine();
 int ai = int.Parse(a);
 int bi = int.Parse(b);
-Console.WriteLine(ai+bi);
+if (ai>bi){
+    Console.WriteLine("max "+ai);}
+if (ai==bi){
+    Console.WriteLine("numbers are equal");
+}
+else {
+    Console.WriteLine("max "+bi);
+}
+    
 
