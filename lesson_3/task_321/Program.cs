@@ -1,7 +1,7 @@
 ﻿string [] coords = {"x","y","z"};
 int [] arrAi = new int[3];
 int [] arrBi = new int[3];
-string tempSt = "";
+string? tempSt = "";
 int tempIn = 0;
 for(int i = 0; i < arrAi.Length; i++){
         Console.WriteLine("введите у первой точки координату " + coords[i]);
