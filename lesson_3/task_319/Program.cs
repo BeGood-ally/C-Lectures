@@ -1,4 +1,5 @@
-﻿string str = "12351";
+﻿Console.WriteLine("введите пятизначное число");
+string str = Console.ReadLine();
 if (str.Length == 5){
     try {
         int strNum = int.Parse(str);
@@ -12,10 +13,10 @@ if (str.Length == 5){
         }
         switch(answer){
             case "yes":
-                Console.Write("yes");
+                Console.Write("да");
                 break;
             case "no":
-                Console.Write("no");
+                Console.Write("нет");
                 break;
         }
     }
