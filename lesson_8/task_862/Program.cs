@@ -1,5 +1,5 @@
 ﻿int wor = 1;
-int [,] digit = {{0,0,0,0},{0,0,0,0},{0,0,0,0},{0,0,0,0}};
+int [,] digit = {{0,0,0,0,0},{0,0,0,0,0},{0,0,0,0,0},{0,0,0,0,0},{0,0,0,0,0}};
 void printDigit(int[,]arr, int x, int y){
     while (x < (arr.GetLength(0) - 2) && y < (arr.GetLength(1) - 2)){
         for (int i = y; i < arr.GetLength(1) - y; i++){
